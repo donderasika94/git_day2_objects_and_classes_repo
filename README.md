@@ -1,0 +1,2 @@
+corejava_assignments_repo
+This folder contains core java day2 assignments
